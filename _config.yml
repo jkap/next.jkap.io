@@ -25,16 +25,22 @@ twitter_username: jkap
 github_username:  jkap
 
 author:
-  twitter: jkap
-  name: jæ kaplan
+  name:              jæ kaplan
+  url:               https://twitter.com/jkap
+  email:             me@jkap.io
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 paginate: 10
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-poole
+theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
