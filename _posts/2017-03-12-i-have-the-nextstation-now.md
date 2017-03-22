@@ -2,6 +2,7 @@
 layout: post
 title: "i have the nextstation now"
 date: 2017-03-12 18:15 -0700
+image: images/2017/03/IMG_2292.jpg
 ---
 
 great news y'all: i have a NeXTstation in my possession
